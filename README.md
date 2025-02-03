@@ -15,7 +15,7 @@ This project is a modern weather application built using the latest technologies
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repo/weather-app.git
+git clone https://github.com/UtkarsHHDhande/ClimaSync.git
 cd weather-app
 ```
 
